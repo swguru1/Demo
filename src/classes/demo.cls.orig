@@ -1,0 +1,19 @@
+public class demo {
+ public void Hello()
+ {
+     System.debug('hellooo world3!!!');
+   System.debug('hello world!!!');
+  System.debug('Testing!!!');
+<<<<<<< HEAD
+   System.debug('Adding a new line 333 conflicts.....');
+=======
+   System.debug('Adding a new line new conflict!!!');
+>>>>>>> 99cd8049a98c1a8c174f8e8f1209030cf2c0f9c2
+   
+   System.debug('Testing again');
+   System.debug('hello world!!!');
+   
+   System.debug('hellooo world3***!!!!!');
+  
+ }
+}
