@@ -1,8 +1,12 @@
-public class merge {
-	
-	public void test()
-	{
-		system.debug('testing merge');
+
+
+public class merge 
+{
+	public void test(){
+		
+		System.debug("hello");
+		
 	}
+
     
 }
