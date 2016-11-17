@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class merge 
 {
 	public void test(){
@@ -7,4 +8,17 @@ public class merge
 	}
 	
     
+=======
+
+
+public class merge 
+{
+	public void test(){
+		
+		System.debug("hello");
+		
+	}
+
+    
+>>>>>>> branch1
 }
