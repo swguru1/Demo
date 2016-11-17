@@ -1,0 +1,5 @@
+<apex:page >
+
+    <c:newcomponent myValue="this is my component value" borderColor="red" />
+
+</apex:page>
